@@ -1,9 +1,5 @@
 # compare-gcs-buckets
 
-## Overview
-
-This Node.js project utilizes Google Cloud Platform (GCP) services. Follow the instructions below to set up and run the project.
-
 ## Prerequisites
 
 - Node.js installed
