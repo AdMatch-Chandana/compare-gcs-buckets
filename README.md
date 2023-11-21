@@ -5,7 +5,21 @@
 - Node.js installed
 - Google Cloud SDK installed and configured
 
-## Setup Instructions
+## Configuration
+
+Before running the script, make sure to update the configuration parameters in the script
+
+1. **Update Bucket and Directory Names:**
+
+   Open the script file (`index.js`) and locate the following lines:
+
+   ```javascript
+   const sourceBucket = 'your-source-bucket-name';
+   const sourceDirectory = 'your-source-directory-name';
+   const destinationBucket = 'your-destination-bucket-name';
+   const destinationDirectory = 'your-destination-directory-name';
+
+## Setup Instructionsv
 
 1. **Login to GCP:**
 
